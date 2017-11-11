@@ -5,6 +5,5 @@ data/sets
 windows_sim
 __pycache__
 
-*.h5
 
 data.zip
